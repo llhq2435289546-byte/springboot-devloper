@@ -1,4 +1,4 @@
-package me.youmame.springboot_developer;
+package me.lihanqi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

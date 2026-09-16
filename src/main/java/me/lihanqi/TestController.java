@@ -1,4 +1,4 @@
-package me.youmame.springboot_developer;
+package me.lihanqi;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
